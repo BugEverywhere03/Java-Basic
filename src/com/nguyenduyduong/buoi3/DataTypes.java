@@ -1,4 +1,5 @@
-package com.ndd.buoi3;
+package com.nguyenduyduong.buoi3;
+
 
 public class DataTypes {
 	public static void main(String[] args) {
