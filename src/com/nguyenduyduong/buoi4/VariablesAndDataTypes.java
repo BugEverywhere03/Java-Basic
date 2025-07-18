@@ -2,27 +2,27 @@ package com.nguyenduyduong.buoi4;
 
 public class VariablesAndDataTypes {
 	public static void main(String[] args) {// gõ main -> crtl + space(nút cách/ nút dài nhất trên bàn phím) -> enter 
-//		String name = "Nguyễn Duy Dương"; // Khi lưu trữ dữ liệu gì đó trong máy tình thì ta cần lưu trữ dữ liệu đó vào bộ nhớ
-//		// String -> Kiểu dữ liệu 
-//		// name -> Tên biến 
-////		int age = 22; // 
-////		int year; // Sẽ chứa giá trị là một số nguyên có ý nghĩa là năm hiện tại đang sống
-//		int b; // Khai báo nhưng không được gán gia trị
-//		b = 2; // Thông qua dấu bằng ta gán gía trị 2 cho biến b
-//		System.out.println(b); // 2
-//		// Biến được khai báo nhưng mà được gán giá trị
-//		boolean chamHoc = true;
-//		System.out.println(chamHoc); // true
-//		// Ví dụ:
-//		// Không sử dụng biến // Xin chào Phượng 
-//		System.out.println("Xin chào Phượng");
-//		System.out.println("Xin chào Phượng");
-//		// Sử dụng biến
-//		String mes = "Xin chào" + " Phượng";
-//		System.out.println(mes);  // Xin chào Phượng
-//		System.out.println(mes);
-//		// => Rút gọn được mã 
-//		// => Dễ dàng thay đổi giá trị sử tiện lợi hơn
+		String name1 = "Nguyễn Duy Dương"; // Khi lưu trữ dữ liệu gì đó trong máy tình thì ta cần lưu trữ dữ liệu đó vào bộ nhớ
+		// String -> Kiểu dữ liệu 
+		// name -> Tên biến 
+		int age = 22; // 
+		int year; // Sẽ chứa giá trị là một số nguyên có ý nghĩa là năm hiện tại đang sống
+		int b; // Khai báo nhưng không được gán gia trị
+		b = 2; // Thông qua dấu bằng ta gán gía trị 2 cho biến b
+		System.out.println(b); // 2
+		// Biến được khai báo nhưng mà được gán giá trị
+		boolean chamHoc = true;
+		System.out.println(chamHoc); // true
+		// Ví dụ:
+		// Không sử dụng biến // Xin chào Phượng 
+		System.out.println("Xin chào Phượng");
+		System.out.println("Xin chào Phượng");
+		// Sử dụng biến
+		String mes = "Xin chào" + " Phượng";
+		System.out.println(mes);  // Xin chào Phượng
+		System.out.println(mes);
+		// => Rút gọn được mã 
+		// => Dễ dàng thay đổi giá trị sử tiện lợi hơn
 		
 		
 		// Coding convention 
